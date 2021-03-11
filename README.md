@@ -32,6 +32,7 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
+This is change for project 9
 ```
 git status # to see your changes
 ```
