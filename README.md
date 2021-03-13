@@ -76,7 +76,4 @@ Default web root:
 
 This is my second edit for project-9 jenkinscentral integration
 
-this is awesome
-
-hello world
-
+this is great
